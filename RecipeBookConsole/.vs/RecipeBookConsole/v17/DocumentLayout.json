@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBookConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|solutionrelative:RecipeBookConsole\\RecipeBookConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|solutionrelative:RecipeBookConsole\\RecipeBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\Recipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE654CDD-FE78-4AB7-ABD8-93523E077E07}|RecipeBookConsole\\RecipeBookConsole.vcxproj|solutionrelative:RecipeBookConsole\\Recipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 429,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeBook.h",
+              "DocumentMoniker": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBook.h",
+              "RelativeDocumentMoniker": "RecipeBookConsole\\RecipeBook.h",
+              "ToolTip": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBook.h",
+              "RelativeToolTip": "RecipeBookConsole\\RecipeBook.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T13:41:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.h",
+              "DocumentMoniker": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\Recipe.h",
+              "RelativeDocumentMoniker": "RecipeBookConsole\\Recipe.h",
+              "ToolTip": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\Recipe.h",
+              "RelativeToolTip": "RecipeBookConsole\\Recipe.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T13:41:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeBookConsole.cpp",
+              "DocumentMoniker": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBookConsole.cpp",
+              "RelativeDocumentMoniker": "RecipeBookConsole\\RecipeBookConsole.cpp",
+              "ToolTip": "C:\\Users\\Leighton\\Desktop\\RecipeBookConsole\\RecipeBookConsole\\RecipeBookConsole.cpp",
+              "RelativeToolTip": "RecipeBookConsole\\RecipeBookConsole.cpp",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T13:41:38.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
